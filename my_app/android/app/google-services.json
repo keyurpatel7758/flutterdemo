@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911997975340",
+    "project_id": "bluebit-tution",
+    "storage_bucket": "bluebit-tution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911997975340:android:45b8808a74c1031c10ca89",
+        "android_client_info": {
+          "package_name": "com.keyurpatel.tution_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911997975340-u9rfpj9lciva10hddfqalklljv0rf3ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt1fN69Uu3Km_5Nk4S48JHDXmqXFDmmt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911997975340-u9rfpj9lciva10hddfqalklljv0rf3ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
